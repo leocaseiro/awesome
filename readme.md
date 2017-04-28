@@ -380,6 +380,7 @@
 - [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids)
 - [Educational Games](https://github.com/vinkla/awesome-educational-games) - Learn while playing.
 - [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning)
+- [Online Web Development Courses](https://github.com/leocaseiro/Awesome-Online-Web-Development-Courses-List)
 
 
 ## Security
